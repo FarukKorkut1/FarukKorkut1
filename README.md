@@ -46,13 +46,22 @@
 
 ---
 
-### 🧪 Platforms & Technologies I’ve Worked With:
+### 🧪 Platforms & Technologies I’ve Worked With
 
-- **Microcontrollers:** ESP32, STM32, Arduino, Arduino Portenta, M5Stack Fire  
-- **AI & ML:** Edge Impulse, TensorFlow, scikit-learn  
-- **Embedded Systems:** PlatformIO, FreeRTOS, LiDAR, stereovision  
-- **Software Tools:** MATLAB, Simulink, .NET, C#, Java  
-- **Operating Systems:** Linux, Raspberry Pi OS, bare-metal  
+- **Microcontrollers & Platforms:**  
+  Texas Instruments, ESP32, STM32, Arduino, M5Stack, Raspberry Pi, Nvidia Jetson Nano
+
+- **Embedded Software & Real-Time Systems:**  
+  PlatformIO, FreeRTOS, Edge Impulse, Arduino IDE, bare-metal (no OS), ESP-IDF
+
+- **AI & ML & Computer Vision:**  
+  TensorFlow, Edge Impulse, scikit-learn, OpenCV
+
+- **Languages & Engineering Tools:**  
+  MATLAB, Simulink, C, C++, Python C#, .NET, Java
+
+- **Operating Systems:**  
+  Linux (Debian, Ubuntu, Raspberry Pi OS)
 
 ---
 
