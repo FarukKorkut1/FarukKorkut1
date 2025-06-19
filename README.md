@@ -26,9 +26,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukkorkut&show_icons=true&theme=radical" alt="Faruk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farukkorkut1&show_icons=true&theme=radical" alt="Faruk's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkorkut&layout=compact&theme=radical" alt="Faruk's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkorkut1&layout=compact&theme=radical" alt="Faruk's Most Used Languages" />
 </p>
 
 ---
