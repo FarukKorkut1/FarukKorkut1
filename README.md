@@ -18,7 +18,9 @@
 
 - 🏍️ **Motorcycle Adaptive Cruise Control**  
   ESP32 + LiDAR + Actuator Control  
-  ![Demo](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+  <p align="center">
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="400" alt="Demo GIF"/>
+  </p>
 
 ---
 
