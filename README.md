@@ -41,7 +41,7 @@
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/farukkorkut)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/faruk-korkut)  
 [![Mail](https://img.shields.io/badge/Email-DarkRed?logo=gmail&logoColor=white)](mailto:faruk@example.com)
 
 ---
