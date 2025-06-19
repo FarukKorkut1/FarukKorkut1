@@ -2,7 +2,7 @@
 <h3 align="center">🔧 Embedded Systems Developer | C/C++ & Real-time Addict</h3>
 
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api" alt="Dynamic Quote" />
+  <img src="https://readme-quote.vercel.app/api" alt="Quote" />
 </p>
 
 ---
