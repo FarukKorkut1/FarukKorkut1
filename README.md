@@ -2,8 +2,9 @@
 <h3 align="center">🔧 Embedded Systems Developer | C/C++ & Real-time Addict</h3>
 
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api" alt="Quote" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Quote"/>
 </p>
+
 
 ---
 
