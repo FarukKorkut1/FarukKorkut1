@@ -35,7 +35,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/farukkorkut/farukkorkut1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/farukkorkut1/farukkorkut1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
