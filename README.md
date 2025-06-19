@@ -1,24 +1,44 @@
-<h1 align="center">Hi there, I'm Faruk Korkut 👋</h1>
-<h3 align="center">🔧 Embedded Systems Developer | C · C++ Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Faruk Korkut</h1>
+<h3 align="center">🔧 Embedded Systems Developer | C/C++ & Real-time Addict</h3>
+
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api" alt="Dynamic Quote" />
+</p>
 
 ---
 
-- 🛠️ Working with microcontrollers, real-time systems & low-level code  
-- 🧠 Currently exploring **embedded AI** & **Edge ML**  
-- 💬 Ask me about anything related to C/C++, STM32, ESP32, or bare-metal development  
-- ⚡ Fun fact: I can debug an I2C bus just by listening to its beeps (almost 😅)
+- 🎓 Final-year Mechatronics & Computer Engineering student  
+- 💼 Working on Embedded AI, ESP32, Jetson Nano & Control Systems  
+- 🧠 Passionate about real-time systems, signal processing, and IoT  
+- 🏍️ Fun fact: My code runs smoother than my motorcycle engine  
+
+---
+
+### 🎬 Project Demos
+
+- 🏍️ **Motorcycle Adaptive Cruise Control**  
+  ESP32 + LiDAR + Actuator Control  
+  ![Demo](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++ logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" alt="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+#### 🛠️ Languages & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
+</p>
+
+#### ⚙️ Tools & Editors
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
@@ -26,9 +46,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farukkorkut1&show_icons=true&theme=radical" alt="Faruk's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkorkut1&layout=compact&theme=radical" alt="Faruk's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farukkorkut1&theme=tokyonight&show_icons=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukkorkut1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farukkorkut1&theme=algolia&no-bg=true&margin-w=15"/>
 </p>
 
 ---
@@ -39,11 +66,13 @@
 
 ---
 
-### 📫 Reach Me
+### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/faruk-korkut)  
-[![Mail](https://img.shields.io/badge/Email-DarkRed?logo=gmail&logoColor=white)](mailto:faruk@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/faruk-korkut)  
+[![Mail](https://img.shields.io/badge/E--Mail-red?logo=gmail)](mailto:faruk@example.com)
 
 ---
 
-<p align="center">💻 Keep on Hacking | Build, Break, Repeat 🚀</p>
+<p align="center">
+  🚀 Keep Hacking · Keep Learning · Build with Passion 💻
+</p>
