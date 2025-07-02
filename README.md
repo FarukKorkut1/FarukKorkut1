@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Faruk Korkut</h1>
-<h3 align="center">🔧 Embedded Systems Developer | C/C++ & Real-time Addict</h3>
+<h3 align="center">🔧 Embedded Systems Developer | C/C++ & Real-time Systems Addict</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="400" alt="Quote"/>
