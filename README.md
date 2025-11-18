@@ -2,8 +2,9 @@
 <h3 align="center">🔧 Embedded Systems & Robotics Engineer | C/C++ · Real-Time · Edge AI</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlnYWRqZjZlNWUwOGs1enZ5M3VmNXY2YnMxMnRrMmRkeDFudG5kYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.gif)" width="400" alt="Embedded systems & code gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlnYWRqZjZlNWUwOGs1enZ5M3VmNXY2YnMxMnRrMmRkeDFudG5kYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSM6HdOicCahnOZ5hM/giphy.gif" width="400" alt="Embedded systems & code gif"/>
 </p>
+
 
 ---
 
