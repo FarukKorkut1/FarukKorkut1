@@ -80,19 +80,20 @@
 ### 💼 Experience Snapshot
 
 - 🛰️ **Avionics Embedded System Engineering Intern @ Baykar Technologies**  
-  Developed low-level C code for **real-time embedded avionics systems** and worked on **high-confidentiality R&D** alongside senior engineers. :contentReference[oaicite:1]{index=1}  
+  Developed low-level C code for real-time embedded avionics systems and worked on high-confidentiality R&D alongside senior engineers.
 
 - 🧠 **R&D Engineer @ Hedef Computer Systems**  
-  Built a **Raspberry Pi–based AI prototype** (full stack: software, hardware, PCB), contributing to **industrial image processing** and a patent-pending solution. :contentReference[oaicite:2]{index=2}  
+  Built a Raspberry Pi–based AI prototype (full stack: software, hardware, PCB), contributing to industrial image processing and a patent-pending solution.
 
 - 🤖 **Freelance Embedded Systems & Robotics Developer**  
-  Delivered end-to-end projects on **STM32, ESP32, Raspberry Pi**, covering control algorithms, simulations, firmware, and hardware prototyping. :contentReference[oaicite:3]{index=3}  
+  Delivered end-to-end projects on STM32, ESP32, Raspberry Pi, covering control algorithms, simulations, firmware, and hardware prototyping.
 
 - ⚙️ **R&D Part-Time Engineer @ Ekingen Elektronik**  
-  Worked on **STM32 and Arduino-based automation** projects, gaining hands-on experience in digital/analog electronics and robotic process automation. :contentReference[oaicite:4]{index=4}  
+  Worked on STM32 and Arduino-based automation projects, gaining hands-on experience in digital/analog electronics and robotic process automation.
 
 - 👥 **Leadership & Community**  
-  Served as **IEEE Kadir Has Student Chapter Chair** for 3 consecutive terms, organizing technical events, workshops, and networking activities. :contentReference[oaicite:5]{index=5}  
+  Served as IEEE Kadir Has Student Chapter Chair for 3 consecutive terms, organizing technical events, workshops, and networking activities.
+ 
 
 ---
 
