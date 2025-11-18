@@ -124,9 +124,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📅 GitHub Activity Calendar
 
-![snake gif](https://github.com/farukkorkut1/farukkorkut1/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farukkorkut1&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
 
 ---
 
