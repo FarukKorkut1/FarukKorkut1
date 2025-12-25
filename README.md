@@ -15,7 +15,6 @@
 - 🤖 Hands-on in **robotics, computer vision, and edge AI**, from PCB to firmware to Linux user space  
 - 🧪 Comfortable across **C, C++, C#, Python, .NET, Java**, with experience in client–server and event-driven systems  
 - 🧠 Interested in **control systems, signal processing, robotics autonomy, and IoT architectures**  
-- 🏍️ Fun fact: my control loops are usually more stable than my motorcycle on bad roads  
 
 ---
 
